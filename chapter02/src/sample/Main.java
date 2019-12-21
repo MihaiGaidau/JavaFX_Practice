@@ -4,6 +4,8 @@ import javafx.animation.Animation;
 import javafx.animation.Interpolator;
 import javafx.animation.RotateTransition;
 import javafx.application.Application;
+import javafx.beans.binding.When;
+import javafx.beans.value.ObservableObjectValue;
 import javafx.fxml.FXMLLoader;
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;
@@ -13,10 +15,7 @@ import javafx.scene.Scene;
 import javafx.scene.control.Label;
 import javafx.scene.effect.DropShadow;
 import javafx.scene.effect.Reflection;
-import javafx.scene.layout.AnchorPane;
-import javafx.scene.layout.BorderPane;
-import javafx.scene.layout.GridPane;
-import javafx.scene.layout.StackPane;
+import javafx.scene.layout.*;
 import javafx.scene.paint.Color;
 import javafx.scene.paint.CycleMethod;
 import javafx.scene.paint.LinearGradient;
@@ -58,6 +57,11 @@ public class Main extends Application {
         r.setTopOffset(1.0);
         text.setEffect(r);
 
+        Text text2 = new Text();
+        text2.setFont(new Font("Arial Bold", 24));
+//        text2.textProperty().bindBidirectional(text.textProperty());
+
+
 
 
 
@@ -73,6 +77,18 @@ public class Main extends Application {
         rotateTransition.setToAngle(360);
         rotateTransition.setFromAngle(0);
         rotateTransition.setInterpolator(Interpolator.LINEAR);
+        rotateTransition.statusProperty().addListener((observable, oldValue, newValue) -> {
+            text2.setText("Was: "+oldValue+" Now: "+ newValue);
+
+        });
+
+//        text2.rotateProperty().bind(stackPane.rotateProperty());
+//        text2.textProperty().bind(stackPane.rotateProperty()
+//                .asString("%.1f"));
+        text2.strokeProperty().bind(new When(rotateTransition.statusProperty()
+            .isEqualTo(Animation.Status.RUNNING))
+                .then(Color.GREEN).otherwise(Color.RED));
+
 
         stackPane.setOnMouseClicked(mouseEvent -> {
             if (rotateTransition.getStatus().equals(Animation.Status.RUNNING)){
@@ -82,8 +98,12 @@ public class Main extends Application {
                 rotateTransition.play();
             }
         });
-
-        Scene scene = new Scene(stackPane, 350, 230, Color.LIGHTYELLOW);
+//        text2.setX(text.getX());
+//        text2.setY(text.getY()+30);
+        VBox vBox = new VBox();
+        vBox.getChildren().setAll(stackPane,text2);
+        vBox.setAlignment(Pos.CENTER);
+        Scene scene = new Scene(vBox, 350, 230, Color.LIGHTYELLOW);
         primaryStage.setTitle("MyShapes with JavaFX");
         primaryStage.setScene(scene);
         primaryStage.show();

@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../chapter03_PropertiesExample/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter03_PropertiesExample/.idea/ant.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter03_PropertiesExample/.idea/artifacts/JavaFXApp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter03_PropertiesExample/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter03_PropertiesExample/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter03_PropertiesExample/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter03_PropertiesExample/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter03_PropertiesExample/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter03_PropertiesExample/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter03_PropertiesExample/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter03_PropertiesExample/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter03_PropertiesExample/chapter03_PropertiesExample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter03_PropertiesExample/src/sample/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter03_PropertiesExample/src/sample/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter03_PropertiesExample/src/sample/sample.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sample/PersonUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sample/PersonUI.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +86,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectId" id="1VIrFHIJS1xxg9LlldjgnMZ0NAF" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectReloadState">
     <option name="STATE" value="0" />
   </component>
@@ -78,6 +98,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="GoToFile.includeJavaFiles" value="false" />
@@ -205,7 +226,7 @@
       <updated>1359379246138</updated>
       <workItem from="1359379250712" duration="1302000" />
       <workItem from="1576951364409" duration="608000" />
-      <workItem from="1577018850188" duration="8536000" />
+      <workItem from="1577018850188" duration="9967000" />
     </task>
     <servers />
   </component>
@@ -214,40 +235,45 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="418" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577020646687">
+    <state x="418" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577035168085">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="418" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1577020646687" />
+    <state x="418" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1577035168085" />
     <state x="768" y="252" width="374" height="582" key="#com.intellij.ide.util.MemberChooser" timestamp="1577022963235">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="768" y="252" width="374" height="582" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1577022963235" />
-    <state x="738" y="301" width="424" height="491" key="FileChooserDialogImpl" timestamp="1577020605985">
+    <state x="738" y="301" width="424" height="491" key="FileChooserDialogImpl" timestamp="1577035122407">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="738" y="301" width="424" height="491" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1577020605985" />
-    <state width="1874" height="284" key="GridCell.Tab.0.bottom" timestamp="1577033583897">
+    <state x="738" y="301" width="424" height="491" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1577035122407" />
+    <state width="1874" height="284" key="GridCell.Tab.0.bottom" timestamp="1577035574047">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="284" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1577033583897" />
-    <state width="1874" height="284" key="GridCell.Tab.0.center" timestamp="1577033583895">
+    <state width="1874" height="284" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1577035574047" />
+    <state width="1874" height="284" key="GridCell.Tab.0.center" timestamp="1577035574044">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="284" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1577033583895" />
-    <state width="1874" height="284" key="GridCell.Tab.0.left" timestamp="1577033583894">
+    <state width="1874" height="284" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1577035574044" />
+    <state width="1874" height="284" key="GridCell.Tab.0.left" timestamp="1577035574044">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="284" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1577033583894" />
-    <state width="1874" height="284" key="GridCell.Tab.0.right" timestamp="1577033583896">
+    <state width="1874" height="284" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1577035574044" />
+    <state width="1874" height="284" key="GridCell.Tab.0.right" timestamp="1577035574045">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="284" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1577033583896" />
+    <state width="1874" height="284" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1577035574045" />
     <state x="443" y="117" width="1024" height="852" key="SettingsEditor" timestamp="1577020609328">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="443" y="117" width="1024" height="852" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1577020609328" />
+    <state x="269" y="243" width="1372" height="601" key="new project wizard" timestamp="1577035125236">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="269" y="243" width="1372" height="601" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1577035125236" />
   </component>
 </project>

@@ -2,35 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../chapter03_BidirectionalBindingExample/.idea/artifacts/JavaFXApp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter03_BidirectionalBindingExample/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter03_BidirectionalBindingExample/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter03_BidirectionalBindingExample/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter03_BidirectionalBindingExample/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter03_BidirectionalBindingExample/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter03_BidirectionalBindingExample/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter03_BidirectionalBindingExample/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter03_BidirectionalBindingExample/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter03_BidirectionalBindingExample/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter03_BidirectionalBindingExample/chapter03_BidirectionalBindingExample.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter03_BidirectionalBindingExample/src/sample/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter03_BidirectionalBindingExample/src/sample/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter03_BidirectionalBindingExample/src/sample/sample.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/ant.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/JavaFXApp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sample/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sample/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sample/sample.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter03_NumericPropertiesExample/.idea/ant.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter03_NumericPropertiesExample/.idea/artifacts/JavaFXApp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter03_NumericPropertiesExample/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter03_NumericPropertiesExample/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter03_NumericPropertiesExample/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter03_NumericPropertiesExample/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter03_NumericPropertiesExample/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter03_NumericPropertiesExample/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter03_NumericPropertiesExample/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter03_NumericPropertiesExample/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter03_NumericPropertiesExample/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter03_NumericPropertiesExample/chapter03_NumericPropertiesExample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter03_NumericPropertiesExample/src/sample/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter03_NumericPropertiesExample/src/sample/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter03_NumericPropertiesExample/src/sample/sample.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../chapter02_PersonUIExample/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter02_PersonUIExample/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter03_BidirectionalBindingExample/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter03_BidirectionalBindingExample/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +80,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectId" id="1VLfhfko6wOJnBXE6ROkO4qwnfA" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectReloadState">
     <option name="STATE" value="0" />
   </component>
@@ -101,6 +92,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="GoToFile.includeJavaFiles" value="false" />
@@ -220,7 +212,7 @@
       <option name="presentableId" value="Default" />
       <updated>1359379246138</updated>
       <workItem from="1359379250712" duration="1302000" />
-      <workItem from="1577037421782" duration="1569000" />
+      <workItem from="1577037421782" duration="3362000" />
     </task>
     <servers />
   </component>
@@ -229,21 +221,22 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="418" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577037458866">
+    <state x="418" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577041528535">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="418" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1577037458866" />
+    <state x="418" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1577041528535" />
     <state x="768" y="252" width="374" height="582" key="#com.intellij.ide.util.MemberChooser" timestamp="1577038306083">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="768" y="252" width="374" height="582" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1577038306083" />
-    <state x="738" y="301" width="424" height="491" key="FileChooserDialogImpl" timestamp="1577037480045">
+    <state x="738" y="301" width="424" height="491" key="FileChooserDialogImpl" timestamp="1577041499902">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="738" y="301" width="424" height="491" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1577037480045" />
+    <state x="738" y="301" width="424" height="491" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1577041499902" />
     <state width="1874" height="284" key="GridCell.Tab.0.bottom" timestamp="1577039051188">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -264,9 +257,9 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="443" y="117" width="1024" height="852" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1577037483615" />
-  </component>
-  <component name="antWorkspaceConfiguration">
-    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
-    <option name="FILTER_TARGETS" value="false" />
+    <state x="269" y="243" width="1372" height="601" key="new project wizard" timestamp="1577041501321">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="269" y="243" width="1372" height="601" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1577041501321" />
   </component>
 </project>

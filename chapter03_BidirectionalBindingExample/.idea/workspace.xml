@@ -2,35 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/JavaFXApp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter03_BidirectionalBindingExample.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sample/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sample/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sample/sample.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter03_DirectExtensionExample/.idea/ant.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter03_DirectExtensionExample/.idea/artifacts/JavaFXApp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter03_DirectExtensionExample/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter03_DirectExtensionExample/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter03_DirectExtensionExample/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter03_DirectExtensionExample/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter03_DirectExtensionExample/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter03_DirectExtensionExample/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter03_DirectExtensionExample/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter03_DirectExtensionExample/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter03_DirectExtensionExample/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter03_DirectExtensionExample/src/sample/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter03_DirectExtensionExample/src/sample/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter03_DirectExtensionExample/src/sample/sample.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter03_NumericPropertiesExample/.idea/ant.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter03_NumericPropertiesExample/.idea/artifacts/JavaFXApp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter03_NumericPropertiesExample/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter03_NumericPropertiesExample/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter03_NumericPropertiesExample/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter03_NumericPropertiesExample/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter03_NumericPropertiesExample/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter03_NumericPropertiesExample/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter03_NumericPropertiesExample/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter03_NumericPropertiesExample/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter03_NumericPropertiesExample/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter03_NumericPropertiesExample/chapter03_NumericPropertiesExample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter03_NumericPropertiesExample/src/sample/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter03_NumericPropertiesExample/src/sample/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter03_NumericPropertiesExample/src/sample/sample.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../chapter02_PersonUIExample/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter02_PersonUIExample/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter03_DirectExtensionExample/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter03_DirectExtensionExample/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../chapter02_PersonUIExample/.idea/ant.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter02_PersonUIExample/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter02_PersonUIExample/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter02_PersonUIExample/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter02_PersonUIExample/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter02_PersonUIExample/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter02_PersonUIExample/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter02_PersonUIExample/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter02_PersonUIExample/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter02_PersonUIExample/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter02_PersonUIExample/chapter02_PersonUIExample.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter02_PersonUIExample/src/sample/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter02_PersonUIExample/src/sample/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter02_PersonUIExample/src/sample/sample.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chapter02_FXML/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter02_FXML/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -215,6 +198,7 @@
       <workItem from="1576682831406" duration="1733000" />
       <workItem from="1576869283449" duration="2719000" />
       <workItem from="1576934282634" duration="8973000" />
+      <workItem from="1577018801120" duration="25000" />
     </task>
     <servers />
   </component>
@@ -282,10 +266,10 @@
     </state>
     <state x="443" y="116" width="1022" height="737" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1576869497430" />
     <state x="2363" y="116" width="1024" height="845" key="SettingsEditor/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1576683002382" />
-    <state x="616" y="367" key="com.intellij.ide.util.TipDialog" timestamp="1576934282893">
+    <state x="616" y="367" key="com.intellij.ide.util.TipDialog" timestamp="1577018800959">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="616" y="367" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1576934282893" />
+    <state x="616" y="367" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1577018800959" />
     <state x="269" y="142" width="1372" height="803" key="new project wizard" timestamp="1576946590773">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>

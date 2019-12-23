@@ -70,5 +70,5 @@ public class Main extends Application {
                 "), the area of triangle ABC is " +
                 area.getValue());
     }
-    
+
 }

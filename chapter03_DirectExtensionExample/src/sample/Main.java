@@ -43,6 +43,9 @@ public class Main extends Application {
             }
 
         };
+        DoubleBinding area2 = new DoubleBinding(() -> {
+            return x.get() * y.get()
+        },x,y);
 
         System.out.println("area.get() = " + area.get());
         System.out.println("area.get() = " + area.get());

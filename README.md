@@ -26,4 +26,8 @@
 
                 --module-path $(replace this with the path to lib folder of JavaFX library) --add-modules javafx.controls,javafx.fxml
 
-    8. ## run the application
+    8. ### run the application
+
+
+## Note: 
+## the path to the library needs to be changed (in IDE) if the project is opened on different machines!!!

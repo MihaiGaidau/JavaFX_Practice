@@ -10,6 +10,14 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>toggleGroupExample</artifactId>
+<!--    <dependencies>-->
+<!--        <dependency>-->
+<!--            <groupId>org.projectlombok</groupId>-->
+<!--            <artifactId>lombok-maven</artifactId>-->
+<!--            &lt;!&ndash;            <version>1.18.10.0</version>&ndash;&gt;-->
+<!--            <type>pom</type>-->
+<!--        </dependency>-->
+<!--    </dependencies>-->
 
     <build>
         <plugins>

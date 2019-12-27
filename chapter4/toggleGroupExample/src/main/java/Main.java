@@ -245,7 +245,6 @@ public class Main extends Application {
         choiceBox.getSelectionModel()
                 .selectedItemProperty()
                 .addListener((oq, oldValue, newValue) -> log.info(newValue));
-
         final DatePicker datePicker = new DatePicker();
         datePicker.setOnAction(e -> {
             LocalDate date = datePicker.getValue();

@@ -6,6 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="chapter5_CSS" />
+        <module name="chapter5_ApplyingStyles" />
         <module name="toggleGroupExample" />
       </profile>
     </annotationProcessing>

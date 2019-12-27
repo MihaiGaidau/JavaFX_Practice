@@ -1,0 +1,22 @@
+.root   {
+    -fx-background-color:linear-gradient(to bottom right, yellow, red);
+    -fx-padding: 20px;
+    -fx-base: #ececec;
+}
+.label   {
+    -fx-background-color: black;
+    -fx-text-fill: white;
+    -fx-padding: 10px;
+}
+.list-view {
+    -fx-background-color: lightgrey;
+    -fx-pref-width: 250px;
+}
+.big-bold-text {
+    -fx-font-weight: bold;
+    -fx-font-size: 20pt;
+}
+#big-bold-label {
+    -fx-font-weight: bold;
+    -fx-font-size: 20pt;
+}

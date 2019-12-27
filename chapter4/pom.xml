@@ -11,6 +11,8 @@
 
     <modules>
         <module>toggleGroupExample</module>
+        <module>chapter5_CSS</module>
+        <module>chapter5_ApplyingStyles</module>
     </modules>
 
     <properties>

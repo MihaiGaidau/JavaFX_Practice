@@ -9,6 +9,7 @@
         <module name="chapter5_CSS" />
         <module name="chapter5_ApplyingStyles" />
         <module name="toggleGroupExample" />
+        <module name="WeatherApp" />
       </profile>
     </annotationProcessing>
   </component>

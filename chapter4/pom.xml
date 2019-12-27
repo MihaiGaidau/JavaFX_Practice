@@ -13,6 +13,7 @@
         <module>toggleGroupExample</module>
         <module>chapter5_CSS</module>
         <module>chapter5_ApplyingStyles</module>
+        <module>WeatherApp</module>
     </modules>
 
     <properties>

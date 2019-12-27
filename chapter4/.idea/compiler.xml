@@ -8,9 +8,13 @@
         <outputRelativeToContentRoot value="true" />
         <module name="chapter5_CSS" />
         <module name="chapter5_ApplyingStyles" />
+        <module name="AddressApp" />
         <module name="toggleGroupExample" />
         <module name="WeatherApp" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="adressApp" target="13" />
+    </bytecodeTargetLevel>
   </component>
 </project>

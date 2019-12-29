@@ -2,24 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../chapter03_NumericPropertiesExample/.idea/ant.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter03_NumericPropertiesExample/.idea/artifacts/JavaFXApp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter03_NumericPropertiesExample/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter03_NumericPropertiesExample/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter03_NumericPropertiesExample/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter03_NumericPropertiesExample/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter03_NumericPropertiesExample/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter03_NumericPropertiesExample/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter03_NumericPropertiesExample/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter03_NumericPropertiesExample/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter03_NumericPropertiesExample/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter03_NumericPropertiesExample/chapter03_NumericPropertiesExample.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter03_NumericPropertiesExample/src/sample/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter03_NumericPropertiesExample/src/sample/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter03_NumericPropertiesExample/src/sample/sample.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../chapter02_PersonUIExample/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter02_PersonUIExample/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../chapter03_BidirectionalBindingExample/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter03_BidirectionalBindingExample/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter03_NumericPropertiesExample/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter03_NumericPropertiesExample/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter4/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter4/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter4/AddressApp/AddressApp.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter4/WeatherApp/WeatherApp.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter4/chapter5_ApplyingStyles/chapter5_ApplyingStyles.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +93,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="dynamic.classpath" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/programs/openjfx-13.0.1_linux-x64_bin-sdk/javafx-sdk-13.0.1/lib" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../chapter4" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -213,6 +203,7 @@
       <updated>1359379246138</updated>
       <workItem from="1359379250712" duration="1302000" />
       <workItem from="1577037421782" duration="3362000" />
+      <workItem from="1577652968280" duration="266000" />
     </task>
     <servers />
   </component>
@@ -225,18 +216,18 @@
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="418" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577041528535">
+    <state x="418" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577653120146">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="418" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1577041528535" />
+    <state x="418" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1577653120146" />
     <state x="768" y="252" width="374" height="582" key="#com.intellij.ide.util.MemberChooser" timestamp="1577038306083">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="768" y="252" width="374" height="582" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1577038306083" />
-    <state x="738" y="301" width="424" height="491" key="FileChooserDialogImpl" timestamp="1577041499902">
+    <state x="738" y="301" width="424" height="491" key="FileChooserDialogImpl" timestamp="1577653150651">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="738" y="301" width="424" height="491" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1577041499902" />
+    <state x="738" y="301" width="424" height="491" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1577653150651" />
     <state width="1874" height="284" key="GridCell.Tab.0.bottom" timestamp="1577039051188">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
